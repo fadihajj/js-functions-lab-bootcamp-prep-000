@@ -1,6 +1,6 @@
 // write your code below!
 function haapyHolidays(){
-  return "Happy holidays";
+  return "Happy holidays!";
 }
 
 function happyHolidaysTo(name){
